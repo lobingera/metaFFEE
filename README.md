@@ -10,6 +10,6 @@
 - [ ] new_canvas in Gtk.jl
 - [ ] ComposeGTK.jl
 - [ ] hitmap testing
-- [ ] Images.jl cmap issue 
+- [x] Images.jl cmap issue 
 - [ ] + PR
-
+- [ ] look at parallel jobs, delegate updates
